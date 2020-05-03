@@ -1,2 +1,2 @@
 # gulp-b64
-Convert File to Base64 Data
+gulp plugin for converting files to base64 string.

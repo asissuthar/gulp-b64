@@ -1,0 +1,17 @@
+{
+  "name": "gulp-b64",
+  "version": "1.0.0",
+  "description": "gulp plugin for converting file to base64 string.",
+  "main": "index.js",
+  "repository": "https://github.com/asissuthar/gulp-b64.git",
+  "author": "Ashish Suthar <asissuthar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "plugin-error": "^1.0.1",
+    "through2": "^3.0.1",
+    "vinyl": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
