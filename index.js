@@ -4,7 +4,7 @@ const path = require('path');
 const Stream = require('stream');
 const through = require('through2').obj;
 const Vinyl = require('vinyl');
-const PluginError = require('plugin-error')
+const PluginError = require('plugin-error');
 
 const Base64Encode = require('./lib/encode');
 const Base64Decode = require('./lib/decode');
